@@ -45,3 +45,11 @@ Os arquivos estão na pasta:
 
 - 🎥 Vídeo: `Video_telas_FeiraFlix.mp4`
 - 📄 Protótipo: `sequencia_telas_FeiraFlix.pdf`
+
+---
+
+## 📚 Documentação completa
+
+Acesse a documentação detalhada na Wiki do projeto:
+
+👉 [WIKI](https://github.com/Ghzz-GH/proj_projeto_de_software/wiki)
