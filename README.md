@@ -1,6 +1,6 @@
 # 🛒 FeiraFlix
 
-> Plataforma de assinaturas semanais para entrega de produtos frescos de feira.
+Plataforma de assinaturas semanais para entrega de produtos frescos de feira.
 
 ---
 
