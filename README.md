@@ -31,7 +31,7 @@ O FeiraFlix resolve isso oferecendo:
 
 ---
 
-## 🎥 Demonstração (vídeo no YouTube), clique abaixo:
+## 🎥 Demonstração protótipo de telas (vídeo no YouTube), clique abaixo:
 
 [![Assista ao vídeo](https://img.youtube.com/vi/u1VkMbhaf3w/0.jpg)](https://youtu.be/u1VkMbhaf3w)
 
@@ -43,7 +43,7 @@ Os arquivos estão na pasta:
 
 📁 `prototipo_telas/`
 
-- 🎥 Vídeo: `Video_telas_FeiraFlix.mp4`
+- 🎥 Vídeo telas: `Video_telas_FeiraFlix.mp4`
 - 📄 Protótipo: `sequencia_telas_FeiraFlix.pdf`
 
 ---
