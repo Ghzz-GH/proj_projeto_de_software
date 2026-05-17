@@ -1,0 +1,16 @@
+# IntelliJ
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/shelf/
+
+# Java
+*.class
+out/
+target/
+build/
+
+# OS
+.DS_Store
+
+# R
+.Rhistory
